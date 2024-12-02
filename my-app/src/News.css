@@ -1,0 +1,8 @@
+.main{display: grid; grid-template-columns: auto auto auto auto; gap: 20px; position: absolute;top: 70px;}
+.mydata{padding: 8px;  line-height: 27px;} 
+.mydata img{height: auto; max-width: 100%; }
+.mylink:hover{
+    color:blueviolet
+}
+.nav{padding: 15px 0px; background: rgb(46, 46, 96)}
+.mylink{padding: 15px 40px; text-decoration: none; color: aliceblue;}
