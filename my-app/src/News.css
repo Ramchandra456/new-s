@@ -1,5 +1,5 @@
 .main{display: grid; grid-template-columns: auto auto auto auto; gap: 20px; position: absolute;top: 70px;}
-.mydata{padding: 8px;  line-height: 27px;} 
+.mydata{padding: 8px;  line-height: 27px;}
 .mydata img{height: auto; max-width: 100%; }
 .mylink:hover{
     color:blueviolet
